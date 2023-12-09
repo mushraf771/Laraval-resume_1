@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+a:hover{
+    color: black !important ;
+    background: #ec9d79;
+}
+
+.nav-link.active{
+    color: black !important ;
+    background:  #ffc107;
+}
+.i-color{
+    color: chartreuse;
+}
+.service-card{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
